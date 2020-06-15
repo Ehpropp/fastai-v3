@@ -1,15 +1,11 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# Fruit Classifier Web Host Repository
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+This repo is the code base for the web app version of a deep learning model I created using the [fast.ai](https://www.fast.ai) library. Upload an image of any of the listed fruits on the page and let it tell you what fruit you uploaded. Try it out and let me know how it goes!
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The webpage can be accessed [here](https://eli-fruit-classifier.onrender.com).
 
-You can test your changes locally by installing Docker and using the following command:
+The jupyter notebook used to create and train this model will be uploaded shortly.
 
-```
-docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3
-```
+Check out the [Practical Deep learning for Coders](https://course.fast.ai/) course that taught me how to create this!
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
-
-Please use [Render's fast.ai forum thread](https://forums.fast.ai/t/deployment-platform-render/33953) for questions and support.
+This repo was forked from the [fast.ai](https://www.fast.ai) starter repo for deploying their models on [Render](https://render.com). The original repo from fast.ai can be found [here](https://github.com/render-examples/fastai-v3).
