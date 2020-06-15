@@ -6,6 +6,6 @@ The web app can be accessed [here](https://eli-fruit-classifier.onrender.com).
 
 The jupyter notebook used to create and train this model will be uploaded shortly.
 
-Check out the [Practical Deep learning for Coders](https://course.fast.ai/) course that taught me how to create this!
+Check out the [Practical Deep Learning for Coders](https://course.fast.ai/) course by fast.ai that taught me how to create this!
 
 This repo was forked from the [fast.ai](https://www.fast.ai) starter repo for deploying their models on [Render](https://render.com). The original repo from fast.ai can be found [here](https://github.com/render-examples/fastai-v3).
