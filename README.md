@@ -8,6 +8,8 @@ I trained the model using the ResNet50 model with a dataset I created from Googl
 
 The notebook file titled 'Fruits Good.ipynb' is the notebook used to create the working model after I cleaned the data and tried different approaches. The notebook where I cleaned setup everything will be uploaded soon.
 
+Github seems to have issues sometimes with rendering jupyter notebooks. If an issue occurs, go to [nbviewer](https://nbviewer.jupyter.org/) and paste the link to the ipynb notebook file. You should be able to view it there.
+
 Check out the [Practical Deep Learning for Coders](https://course.fast.ai/) course by fast.ai that taught me how to create this!
 
 This repo was forked from the [fast.ai](https://www.fast.ai) starter repo for deploying their models on [Render](https://render.com). The original repo from fast.ai can be found [here](https://github.com/render-examples/fastai-v3).
